@@ -1,8 +1,7 @@
-# React + Vite
+# Movies Rating
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+is the definitive source for discovering the most popular and top-rated movies of all time. With a simple and straightforward interface, it offers immediate access to the films most loved by the global film community.
 
-Currently, two official plugins are available:
+## Link
+[Working app](https://movies-rating-97q4rzbmp-lincolndiogo200s-projects.vercel.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
